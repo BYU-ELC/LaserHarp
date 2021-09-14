@@ -7,8 +7,9 @@ Currently the project is controlled by a teensy with an audio shield. The 5 volt
 
 The original board schematic is handwritten in LaserHarpSchematic.pdf, but the new schematics and layouts are in the Laser Harp PCB.sch and Laser Harp PCB.brd files respectively. You should use these for future development or repair.
 
+ --
 
-FUTURE DEVELOPMENT
+FUTURE DEVELOPMENT:
 
 Currently the Laser Harp is using a PCB we milled out here in the shop which is nice, but it might be nice to order a professional one. Also, it is Revision 2, meaning I had to manually change the connection from pin 7 to pin 8 (See schematic commit notes).
 
