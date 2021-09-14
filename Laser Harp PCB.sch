@@ -7571,12 +7571,14 @@ Source: DCJ0202.pdf</description>
 </net>
 <net name="N$24" class="0">
 <segment>
-<pinref part="U$1" gate="G$1" pin="IO7"/>
-<wire x1="116.84" y1="116.84" x2="129.54" y2="116.84" width="0.1524" layer="91"/>
 <pinref part="T9" gate="G$1" pin="E"/>
 <pinref part="R10" gate="G$1" pin="1"/>
+<wire x1="124.46" y1="116.84" x2="129.54" y2="116.84" width="0.1524" layer="91"/>
 <wire x1="129.54" y1="116.84" x2="129.54" y2="93.98" width="0.1524" layer="91"/>
 <junction x="129.54" y="116.84"/>
+<pinref part="U$1" gate="G$1" pin="IO8"/>
+<wire x1="116.84" y1="119.38" x2="124.46" y2="119.38" width="0.1524" layer="91"/>
+<wire x1="124.46" y1="119.38" x2="124.46" y2="116.84" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$27" class="0">
